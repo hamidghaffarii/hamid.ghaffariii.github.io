@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+console.log('Hello world!');
+### Skill Highlights
+Programming Languages (Delphi, C#, Java, Python) Agile/Lean/Scrum/Kanban/Scrumban BDD/TDD AOP Database (MS SQL Server, Oracle, NO-SQL) Data Structures and Algorithms Virtualization PLC/OPC/IIOT Data mining Docker
+### Working Experience
++ Level 2 Software Engineer - 2011 - Present
+Esfahan's Mobarakeh Steel Company * Set up OPC Server Hub for 'Siemens S7 PLCS * Saba Level2 Expansion/Revamp projects (with Danieli, IRISA) * Upgrade 'Sinec-H1 network to Fiber optic network
++ Level 2 Software Developer - 2008-2011 - Irisa Company, Isfahan
+* Level2 to Level3 Data exchange project (Telegram based)
 
-You can use the [editor on GitHub](https://github.com/hamidghaffarii/hamid.ghaffariii.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data Structures and Algorithms Virtualization PLC/OPC/IIOT Data mining Docker
+### Working Experience
++ Level 2 Software Engineer - 2011-Present - Esfahan's Mobarakeh Steel Company
+* Set up OPC Server Hub for 'Siemens S7 PLCS * Saba Level2 Expansion/Revamp projects (with Danieli, IRISA)
+Upgrade "Sinec-H1 network to Fiber optic network
+Level 2 Software Developer - 2008-2011 - Irisa Company, Isfahan * Level2 to Level3 Data exchange project (Telegram based)
+Connect Quantometer (Spark Emission Spectrometer) to Level2 * Connect Celox device (Heraeus Electro-Nite) to Level2
+### Education
++ Master of Science: Software Engineering
+- 2013, University of Isfahan Bachelor of Science: Software Engineering - 2001-2005, Islamic Azad University, Najafabad Branch
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamidghaffarii/hamid.ghaffariii.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
